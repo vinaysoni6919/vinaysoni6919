@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://wallpaperaccess.com/full/1111983.jpg)
 <h1 align="center">Hi 👋, I'm Vinay Soni</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.2fc08b6ace083857d800313d964e2060?rik=M9PHt%2fGgvTTTFQ&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fuH7JvseKVMojS%2fgiphy.gif&ehk=irbzlORXUAtUXH1sjjLY2IG6RrmQULmscHMFMiXq88M%3d&risl=&pid=ImgRaw&r=0">
