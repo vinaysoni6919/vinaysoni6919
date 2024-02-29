@@ -1,7 +1,7 @@
-[![MasterHead](https://wallpaperaccess.com/full/1111983.jpg)
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg)
 <h1 align="center">Hi 👋, I'm Vinay Soni</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.2fc08b6ace083857d800313d964e2060?rik=M9PHt%2fGgvTTTFQ&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fuH7JvseKVMojS%2fgiphy.gif&ehk=irbzlORXUAtUXH1sjjLY2IG6RrmQULmscHMFMiXq88M%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-cowboy-computer-coding-w60pcikl6ieg525n.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysoni6919&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysoni6919" /> </p>
 
